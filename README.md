@@ -17,4 +17,4 @@
   3
 
 //What does the -10 do in the second and fourth arguments of the line function, height-10-random(h)? Why is it there?
-  make a range of the end of the lines 
+  make a range of the top end of the grass, so that the grass grows in random direction. 
