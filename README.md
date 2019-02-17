@@ -18,3 +18,13 @@
 
 //What does the -10 do in the second and fourth arguments of the line function, height-10-random(h)? Why is it there?
   make a range of the top end of the grass, so that the grass grows in random direction. 
+
+# QUESTIONS
+//What's the point of an object?
+  the syntax of data.
+
+//What's an example of a range you might use for the map function?
+  map the mouse X to RGB color, even the number of the range is different.
+  
+//What line of code would give me a random year in the last century?
+  x=random(1900, 2000);
